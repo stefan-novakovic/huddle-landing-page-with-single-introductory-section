@@ -1,2 +1,2 @@
 Huddle landing page with single introductory section\
-DEMO:
+DEMO: https://huddle-landing-page-sis-novakovic.netlify.app/
